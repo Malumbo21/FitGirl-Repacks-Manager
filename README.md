@@ -1,8 +1,18 @@
-# FitGirl Repacks Manager
+# FitGirl Repacks Manager [DEPRECATED]
 
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/ANOOBALSA/FitGirl-Repacks-Manager/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg)](https://github.com/ANOOBALSA/FitGirl-Repacks-Manager/releases)
+[![Status](https://img.shields.io/badge/status-DEPRECATED-critical.svg)](https://github.com/alsasoft-web/FitRepacks-Library)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+> [!CAUTION]
+> ### Project Deprecated & Migrated
+> **This repository is no longer maintained.**
+> 
+> Development and updates have moved to the new and improved project:  
+> **[alsasoft-web/FitRepacks-Library](https://github.com/alsasoft-web/FitRepacks-Library)**
+> 
+> Please star, follow, and download future releases from the new repository.
+
+---
 
 **FitGirl Repacks Manager** is a modern, high-performance desktop application designed to streamline your gaming experience. It provides a beautiful interface to discover, manage, and install your favorite games directly from FitGirl's catalog.
 
